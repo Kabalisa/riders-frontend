@@ -6,7 +6,7 @@ by leveraging the modern web.
 
 ## Getting Started
 
-This is a repository of author haven frontend project. If you are interested in knowing what we worked on in the backend, you can check it out [here](https://github.com/Kabalisa/Kabalisa-projects.git).
+This is a repository of author haven frontend project. If you are interested in knowing what we worked on in the backend, you can check it out [here](https://github.com/Kabalisa/riders-backend.git).
 Do:
 
 1. `git clone https://github.com/andela/riders-ah-frontend.git`
